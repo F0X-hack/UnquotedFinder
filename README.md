@@ -145,6 +145,5 @@ Vulnerability class reference: [MITRE CWE-428](https://cwe.mitre.org/data/defini
 
 <div align="center">
 
-Made with ❤️ by **FoXhack**
 
 </div>
